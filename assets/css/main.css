@@ -253,6 +253,14 @@ ol li {
   -webkit-transition: all 0.2s ease-in-out;
 }
 
+
+
+.banner-font {
+  font-size: 35px !important;
+  color: red !important;
+  font-weight: bolder !important;
+  line-height: 50px !important;
+}
 .btn-common:hover {
   /* color: #fff; */
   background-color: rgb(247, 223, 7);
